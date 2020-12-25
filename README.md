@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Parinya muangrod
+# STUDENT ID: 630612104
